@@ -1,8 +1,8 @@
 # Vuejs Technical Assessment  
 - Create a repository on Github called ``SCAMP-C6 Assesment``
 
-- Using VueJs, build out this ![ e-commerce product page](https://github.com/WajesmartDevTeam/SCAMP-Cohort6-Technical-assessment/blob/[branch]/image.jpg?raw=true) and get it looking as close to the design as possible.
-Your task is to build out the project to the designs inside the [frontend](/frontend) folder. You will find both a mobile and a desktop version of the design.
+- Using VueJs, build out this ![ e-commerce product page](https://github.com/WajesmartDevTeam/SCAMP-Cohort6-Technical-assessment/blob/master/intermediate/frontend/frontend-desktop.jpg?raw=true) and get it looking as close to the design as possible.
+Your task is to build out the project to the designs inside the [frontend](https://github.com/WajesmartDevTeam/SCAMP-Cohort6-Technical-assessment/tree/master/intermediate/frontend) folder. You will find both a mobile and a desktop version of the design.
 
 
 ## Aesthetic Requirements
