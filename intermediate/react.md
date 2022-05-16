@@ -1,23 +1,23 @@
 # React Technical Assessment  
+- Create a repository on Github called ``SCAMP-C6 Assessment``
 
-- Create a repository on Github called ``SCAMP Assesment``
+- Using React, build out the Eccommerce Product page below. ![ e-commerce product page](https://github.com/WajesmartDevTeam/SCAMP-Cohort6-Technical-assessment/blob/master/intermediate/frontend/frontend-desktop.jpg?raw=true) 
+Get it looking as close to the design as possible. The design images are inside the [frontend](https://github.com/WajesmartDevTeam/SCAMP-Cohort6-Technical-assessment/tree/master/intermediate/frontend) folder. You will find both a mobile and a desktop version of the design.
 
-- Using Reactjs, create a monitoring dashboard for corona virus, using this API [Here](https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest).
 
 ## Aesthetic Requirements
-How the information is displayed, is up to you. We would love to see your creativity as well as aesthetic design.
+The designs are in JPG static format. Using JPGs will mean that you’ll need to use your best judgment for styles such as font-size, padding and margin.
   
-## Functional requirements
-- User should be able to view global statistics (cases, deaths, recovered)
-- User should be able to view a list of statistics per country (cases, deaths, recovered)
-- User should be able to search for countries
-- User should be able to rank countries in order
+## Functional requirements 
+- User should be able to view the optimal layout for the site depending on their device’s screen size
+- User should be able to see hover states for all interactive elements on the page
+- User should be able to open a lightbox gallery by clicking on the large product image
+- User should be able to switch the large product image by clicking on the small thumbnail images 
 
 ## Submission
-
 - Push your project to the repo created
-- Include a link to your live hosted project on your github readme file.
-- submit your project github URL on the application form here: https://bit.ly/SCA-mentee-C3
+- Include a link to your live hosted project on your github readme.md file.
+- submit your project github URL on the application form here: https://bit.ly/SCA-mentee-C6
 
 
 *Good luck!*

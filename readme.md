@@ -10,6 +10,7 @@ To start your technical assessment, kindly select a track and level that applies
 - [Javascript](beginner/javascript.md)
 - [PHP](beginner/php.md)
 - [Python](beginner/python.md)
+- [Product Management](beginner/productmanagement.md)
 
   
 ## Intermediate
@@ -22,8 +23,9 @@ To start your technical assessment, kindly select a track and level that applies
 ### Data Science
 - [Data Science](intermediate/datasci.md)
 
-### UI/UX
+### Product
 - [Product Design](intermediate/design.md)
+- [Product Management](intermediate/productmanagement.md)
 
 ### Infrastructure
 - [DevOps](intermediate/devops.md)
