@@ -1,6 +1,6 @@
 # PHP Beginner Technical Assessment  
 
-- Create a repository on Github called ``SCAMP-C6 Assesment``
+- Create a repository on Github called ``SCAMP-C6 Assessment``
 
 - Using PHP, write a function that checks if a number is a Prime number or not and returns True/False.
 

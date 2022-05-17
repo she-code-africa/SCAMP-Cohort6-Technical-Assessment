@@ -1,10 +1,10 @@
-# DevOps Technical Assesment
+# DevOps Technical Assessment
 
 **NOTE: PICK ANY OF THE FOLLOWING EXERCISES OF YOUR CHOICE**
 
 ## EXERCISE 1:
 
-- Create a  repository on Github called `SCAMP Assesment`
+- Create a  repository on Github called `SCAMP-C6 Assessment`
   
 - With a simple Web application in any of your preferred languages
 
@@ -27,7 +27,7 @@ docker-compose down
 
 ## EXERCISE 2 :
 
-- Create a repository on Github called ``SCAMP Assesment``
+- Create a repository on Github called ``SCAMP-C6 Assessment``
 
 - Create/Build a Command-line interface (CLI) application which will install the following softwares: wget, curl, Node.js
 
@@ -44,6 +44,6 @@ Requirements:
 
 ## Submission
 - Push your project to your github repo created.
-- submit your project github URL on the application form here: https://bit.ly/SCA-mentee-C3
+- submit your project github URL on the application form here: https://bit.ly/SCA-mentee-C6
 
 *Good luck!*

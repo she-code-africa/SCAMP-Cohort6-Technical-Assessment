@@ -1,22 +1,24 @@
 # Flutter Technical Assessment  
 
-- Create a repository on Github called ``SCAMP Assesment``
+- Create a repository on Github called ``SCAMP-C6 Assessment``
 
-- Using Flutter, create a mobile dashboard for corona virus, using this API [Here](https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest)
+- Using Flutter, create a mobile dashboard for a baking recipe,
+ using this API [Here] (https://d17h27t6h515a5.cloudfront.net/topher/2017/May/59121517_baking/baking.json).
+ Make a request to the API, extract all recipes and display them appropriately in view.
+
 
 ## Aesthetic Requirements
 How the information is displayed, is up to you. We would love to see your creativity as well as aesthetic design.
   
 ## Functional requirements
-- User should be able to view global statistics (cases, deaths, recovered)
-- User should be able to view a list of statistics per country (cases, deaths, recovered)
-- User should be able to search for countries
-- User should be able to rank countries in order
+- User should be able to view a list of available recipes.
+- User should be able to view ingredients and steps for creating each recipe.
 
 ## Submission
-- Push your project to your github repo created
-- Include a gif/short video to your application on your github readme file.
-- submit your project github URL on the application form here: https://bit.ly/SCA-mentee-C3
+- Push your project to the GitHub repo created
+- Create a readme file to describe the technologies and stack that you used.
+- Include a gif/short video to your application on your GitHub readme file.
+- submit your project github URL on the application form here: https://bit.ly/SCA-mentee-C6
 
 
 *Good luck!*

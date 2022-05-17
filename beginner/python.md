@@ -1,6 +1,6 @@
 # Python Beginner Technical Assessment  
 
-- Create a repository on Github called ``SCAMP-C6 Assesment`
+- Create a repository on Github called ``SCAMP-C6 Assessment`
 
 - Using Python, Write a Python function that takes a number as a parameter and check the number is prime or not.
 
