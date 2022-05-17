@@ -1,9 +1,12 @@
-# UI/UX Design Assessment  
-- Using any design tool of your choice, create the https://twitter.com/ sign up page
+# Product Design (Beginner) Technical Assessment  
 
-## Submission
-- Upload to your design portfolio or page 
+## The Problem
+- You seem to miss a lot of deadlines for assignment submissions at the She Code Africa mentoring problem.
 
-- submit the URL on the application form here: https://bit.ly/SCA-mentee-C6
+## The Task
+- Create a one page mobile app to solve the above problem.
+
+## Submission 
+- Submit the URL to access the figma file on the application form here: https://bit.ly/SCA-mentee-C6
 
 *Good luck!*

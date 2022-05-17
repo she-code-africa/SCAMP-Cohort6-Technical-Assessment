@@ -1,6 +1,6 @@
 # Data Science Technical Assessment  
 
-- Create a repository on Github called ``SCAMP Assesment``
+- Create a repository on Github called ``SCAMP-C6 Assessment``
 
 - Given the datasets and details at https://www.kaggle.com/c/titanic , predict with an ``accuracy of at least 80%``, the survival of passengers on the titanic
   
@@ -13,7 +13,7 @@
 ## Submission
 - Push your project to the github repo created above.
 
-- submit your project github URL on the application form here: https://bit.ly/SCA-mentee-C3
+- submit your project github URL on the application form here: https://bit.ly/SCA-mentee-C6
 
 
 *Good luck!*
