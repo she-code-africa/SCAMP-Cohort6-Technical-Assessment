@@ -2,12 +2,15 @@
 
 - Create a repository on Github called ``SCAMP-C6 Assessment``
 
-- Given the datasets and details at https://www.kaggle.com/c/titanic , predict with an ``accuracy of at least 80%``, the survival of passengers on the titanic
+- Download the dataset at [Dataset](/fake_job_postings.csv)
+
+- The given dataset below contains a collection of job postings, some of which are fraudulent. The data contains textual & meta info about these jobs. Study the details of the dataset and find out which industry has the highest number of fake job postings.
+
+- Graphically display your answer.
   
 ## Functional requirements
 
 - Approach must be detailed
-
 - Data should be cleaned and scaled if necessary
 
 ## Submission

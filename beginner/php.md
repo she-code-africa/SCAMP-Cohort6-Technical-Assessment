@@ -1,6 +1,12 @@
 # PHP Beginner Technical Assessment  
 
-- Create a repository on Github called ``SCAMP-C6 Assessment``
+- Fork the [PHP track assessment](https://github.com/she-code-africa/php-ta).
+- Clone the repository to your local computer.
+- Add your solution to the specificied position.
+- Commit your solution.
+- Push your update to your repository.
+- Submit your repository URL on the provided google form.
+- NOTE: make sure to follow the instruction on the readme.md/README.md
 
 - Using PHP, write a function that checks if a number is a Prime number or not and returns True/False.
 
