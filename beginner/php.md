@@ -16,6 +16,6 @@ Note: A prime number(or a prime) is a positive integer that is only divisible by
 
 - Push your solution to the github repo created 
 
-- submit the URL on the application form here: https://bit.ly/SCA-mentee-C6
+- submit the URL on the application form here: [SCA Events](http://shecodeafrica.org/events) 
 
 *Good luck!*

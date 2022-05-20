@@ -9,7 +9,7 @@
  
 ## Submission 
 
-- Submit the link to your google docs file on the application form here: https://bit.ly/SCA-mentee-C6
+- Submit the link to your google docs file on the application form here: [SCA Events](http://shecodeafrica.org/events) 
 
 
 *Good luck!*

@@ -11,7 +11,6 @@
 
 
 ## Submission 
-- Submit the URL to access the figma file on the application form here: https://bit.ly/SCA-mentee-C6
-
+- Submit the URL to access the figma file on the application form here: [SCA Events](http://shecodeafrica.org/events) 
 *Good luck!*
 

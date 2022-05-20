@@ -2,7 +2,7 @@
 
 - Create a repository on Github called ``SCAMP-C6 Assessment``
 
-- Download the dataset at [Dataset](/fake_job_postings.csv)
+- Download the dataset at [Dataset](/intermediate/fake_job_postings.csv)
 
 - The given dataset below contains a collection of job postings, some of which are fraudulent. The data contains textual & meta info about these jobs. Study the details of the dataset and find out which industry has the highest number of fake job postings.
 
@@ -16,7 +16,7 @@
 ## Submission
 - Push your project to the github repo created above.
 
-- submit your project github URL on the application form here: https://bit.ly/SCA-mentee-C6
+- submit your project github URL on the application form here: [SCA Events](http://shecodeafrica.org/events) 
 
 
 *Good luck!*

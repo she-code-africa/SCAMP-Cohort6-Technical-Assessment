@@ -40,7 +40,7 @@ To start your technical assessment, kindly select a track and level that applies
 
 ## Submission info:
 To submit your solution, 
-- kindly head back to the original application form: https://bit.ly/SCA-mentee-C6 ,
+- kindly head back to the original application form: [SCA Events](http://shecodeafrica.org/events) ,
 - submit the URL to your solution in the required field
 - fill in other required details on the form
 - Submit
