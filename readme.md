@@ -40,7 +40,7 @@ To start your technical assessment, kindly select a track and level that applies
 
 ## Submission info:
 To submit your solution, 
-- kindly head back to the original application form: [SCA Events](http://shecodeafrica.org/events) ,
+- kindly head back to the original application form: [Cohort 6 Application](http://shecodeafrica.org/events) ,
 - submit the URL to your solution in the required field
 - fill in other required details on the form
 - Submit
