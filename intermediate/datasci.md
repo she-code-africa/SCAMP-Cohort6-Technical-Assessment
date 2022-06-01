@@ -16,7 +16,7 @@
 ## Submission
 - Push your project to the github repo created above.
 
-- submit your project github URL on the application form here: [SCA Events](http://shecodeafrica.org/events) 
+- submit your project github URL on the application form here: [Cohort 6 Application](http://shecodeafrica.org/events) 
 
 
 *Good luck!*

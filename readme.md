@@ -11,6 +11,7 @@ To start your technical assessment, kindly select a track and level that applies
 - [PHP](beginner/php.md)
 - [Python](beginner/python.md)
 - [Product Management](beginner/productmanagement.md)
+- [Cyber Security](beginner/cybersecurity.md)
 
   
 ## Intermediate

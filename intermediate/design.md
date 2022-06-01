@@ -11,6 +11,6 @@
 
 
 ## Submission 
-- Submit the URL to access the figma file on the application form here: [SCA Events](http://shecodeafrica.org/events) 
+- Submit the URL to access the figma file on the application form here: [Cohort 6 Application](http://shecodeafrica.org/events) 
 *Good luck!*
 
