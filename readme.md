@@ -18,7 +18,6 @@ To start your technical assessment, kindly select a track and level that applies
 
 ### Mobile
 - [Kotlin](intermediate/kotlin.md)
-- [React Native](intermediate/reactnative.md)
 - [Flutter](intermediate/flutter.md)
 
 ### Data Science
@@ -27,9 +26,6 @@ To start your technical assessment, kindly select a track and level that applies
 ### Product
 - [Product Design](intermediate/design.md)
 - [Product Management](intermediate/productmanagement.md)
-
-### Infrastructure
-- [DevOps](intermediate/devops.md)
 
 ### Backend
 - [Laravel](intermediate/laravel.md)
