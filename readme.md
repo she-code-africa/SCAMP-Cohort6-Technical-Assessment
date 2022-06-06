@@ -46,6 +46,6 @@ To submit your solution,
 - fill in other required details on the form
 - Submit
 
-## Submission / Application Deadline: 14th August 2020
+## Submission / Application Deadline: 19th June 2022
 
 *Your solution doesn't have to be perferct before submission, Good luck!*
