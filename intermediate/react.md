@@ -1,8 +1,8 @@
 # React Technical Assessment  
 - Create a repository on Github called ``SCAMP-C6 Assessment``
 
-- Using React, build out the Eccommerce Product page below. ![ e-commerce product page](https://github.com/WajesmartDevTeam/SCAMP-Cohort6-Technical-assessment/blob/master/intermediate/frontend/frontend-desktop.jpg?raw=true) 
-Get it looking as close to the design as possible. The design images are inside the [frontend](https://github.com/WajesmartDevTeam/SCAMP-Cohort6-Technical-assessment/tree/master/intermediate/frontend) folder. You will find both a mobile and a desktop version of the design.
+- Using React, build out the Eccommerce Product page below. ![ e-commerce product page](/intermediate/frontend/frontend-desktop.jpg?raw=true) 
+Get it looking as close to the design as possible. The design images are inside the [frontend](/intermediate/frontend) folder. You will find both a mobile and a desktop version of the design.
 
 
 ## Aesthetic Requirements
