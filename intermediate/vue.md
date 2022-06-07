@@ -1,8 +1,8 @@
 # Vuejs Technical Assessment  
 - Create a repository on Github called ``SCAMP-C6 Assessment``
 
-- Using VueJs, build out the Eccommerce Product page below. ![ e-commerce product page](https://github.com/WajesmartDevTeam/SCAMP-Cohort6-Technical-assessment/blob/master/intermediate/frontend/frontend-desktop.jpg?raw=true) 
-Get it looking as close to the design as possible. The design images are inside the [frontend](https://github.com/WajesmartDevTeam/SCAMP-Cohort6-Technical-assessment/tree/master/intermediate/frontend) folder. You will find both a mobile and a desktop version of the design.
+- Using VueJs, build out the Eccommerce Product page below. ![ e-commerce product page](/intermediate/frontend/frontend-desktop.jpg?raw=true) 
+Get it looking as close to the design as possible. The design images are inside the [frontend](/intermediate/frontend) folder. You will find both a mobile and a desktop version of the design.
 
 
 ## Aesthetic Requirements
@@ -17,7 +17,7 @@ The designs are in JPG static format. Using JPGs will mean that you’ll need to
 ## Submission
 - Push your project to the repo created
 - Include a link to your live hosted project on your github readme.md file.
-- submit your project github URL on the application form here: [SCA Events](http://shecodeafrica.org/events) 
+- submit your project github URL on the application form here: [Cohort 6 Application](http://shecodeafrica.org/events) 
 
 
 *Good luck!*

@@ -18,7 +18,7 @@ How the information is displayed, is up to you. We would love to see your creati
 - Push your project to the GitHub repo created
 - Create a readme file to describe the technologies and stack that you used.
 - Include a gif/short video to your application on your GitHub readme file.
-- submit your project github URL on the application form here: [SCA Events](http://shecodeafrica.org/events) 
+- submit your project github URL on the application form here: [Cohort 6 Application](http://shecodeafrica.org/events) 
 
 
 *Good luck!*

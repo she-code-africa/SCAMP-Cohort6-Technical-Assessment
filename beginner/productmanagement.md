@@ -9,7 +9,7 @@
  
 ## Submission 
 
-- Submit the link to your google docs file on the application form here: [SCA Events](http://shecodeafrica.org/events) 
+- Submit the link to your google docs file on the application form here: [Cohort 6 Application](http://shecodeafrica.org/events) 
 
 
 *Good luck!*

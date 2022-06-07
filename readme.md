@@ -11,13 +11,13 @@ To start your technical assessment, kindly select a track and level that applies
 - [PHP](beginner/php.md)
 - [Python](beginner/python.md)
 - [Product Management](beginner/productmanagement.md)
+- [Cyber Security](beginner/cybersecurity.md)
 
   
 ## Intermediate
 
 ### Mobile
 - [Kotlin](intermediate/kotlin.md)
-- [React Native](intermediate/reactnative.md)
 - [Flutter](intermediate/flutter.md)
 
 ### Data Science
@@ -26,9 +26,6 @@ To start your technical assessment, kindly select a track and level that applies
 ### Product
 - [Product Design](intermediate/design.md)
 - [Product Management](intermediate/productmanagement.md)
-
-### Infrastructure
-- [DevOps](intermediate/devops.md)
 
 ### Backend
 - [Laravel](intermediate/laravel.md)
@@ -45,6 +42,6 @@ To submit your solution,
 - fill in other required details on the form
 - Submit
 
-## Submission / Application Deadline: 14th August 2020
+## Submission / Application Deadline: 19th June 2022
 
 *Your solution doesn't have to be perferct before submission, Good luck!*

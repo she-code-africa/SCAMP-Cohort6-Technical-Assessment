@@ -44,6 +44,6 @@ Requirements:
 
 ## Submission
 - Push your project to your github repo created.
-- submit your project github URL on the application form here: https://bit.ly/SCA-mentee-C6
+- submit your project github URL on the application form here:[Cohort 6 Application](http://shecodeafrica.org/events)
 
 *Good luck!*
