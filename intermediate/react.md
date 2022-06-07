@@ -6,7 +6,7 @@ Get it looking as close to the design as possible. The design images are inside 
 
 
 ## Aesthetic Requirements
-The designs are in JPG static format. Using JPGs will mean that you’ll need to use your best judgment for styles such as font-size, padding, margin and images.
+The designs are in JPG static format. Using JPGs will mean that you’ll need to use your best judgment for styles such as font-size, padding, margin and images. Use any preferred product images to replace the Sneaker.
   
 ## Functional requirements 
 - User should be able to view the optimal layout for the site depending on their device’s screen size
