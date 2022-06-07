@@ -6,12 +6,11 @@ Get it looking as close to the design as possible. The design images are inside 
 
 
 ## Aesthetic Requirements
-The designs are in JPG static format. Using JPGs will mean that you’ll need to use your best judgment for styles such as font-size, padding and margin.
+The designs are in JPG static format. Using JPGs will mean that you’ll need to use your best judgment for styles such as font-size, padding, margin and images.
   
 ## Functional requirements 
 - User should be able to view the optimal layout for the site depending on their device’s screen size
-- User should be able to see hover states for all interactive elements on the page
-- User should be able to open a lightbox gallery by clicking on the large product image
+- User should be able to see hover states for all interactive elements on the page 
 - User should be able to switch the large product image by clicking on the small thumbnail images 
 
 ## Submission
