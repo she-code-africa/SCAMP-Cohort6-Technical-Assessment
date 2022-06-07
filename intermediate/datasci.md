@@ -4,7 +4,7 @@
 
 - Download the dataset at [Dataset](/intermediate/fake_job_postings.csv)
 
-- The given dataset below contains a collection of job postings, some of which are fraudulent. The data contains textual & meta info about these jobs. Study the details of the dataset and find out which industry has the highest number of fake job postings.
+- The given database contains a collection of job postings, some of which are fraudulent. The data contains textual & meta info about these jobs. Study the details of the dataset and find out which industry has the highest number of fake job postings.
 
 - Graphically display your answer.
   
